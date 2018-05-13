@@ -1,0 +1,52 @@
+body	{
+	background-color: #070F17;
+
+  color: green;
+  font-size: 25px;
+  font-family: 'Poiret One', cursive;;
+  margin: 0;
+  }
+
+  #banner {
+  	text-align: center;
+    background-color: #050A10;
+    background-image: 
+  	background-size: cover; 
+  	padding: 100px ; 
+  	color: white ; 
+  	text-shadow: 1px 1px 5px black ;
+  	}
+
+.card {
+	text-align: center; 
+	padding: 80px;
+	font-weight:lighter; 
+	}
+
+  h1	{
+  font-family: 'Poiret One', cursive;
+  color: white;
+  font-weight: light;
+ }
+
+ h2 {
+  font-family: 'Poiret One', cursive;
+  color: pink;
+ font-size: 28px;
+ }
+
+ a :	{
+  color: rgb(211, 173, 240);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+#footer { 
+	padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
